@@ -1,4 +1,5 @@
 var BigDecimal = Java.type('java.math.BigDecimal');
+var Assegd = "Assegd";
 
 function calculate(amount, percentage) {
 
